@@ -50,7 +50,7 @@ static const int64_t nInterval = nTargetTimespan_legacy / nTargetSpacing;
 
 static const int64_t nTargetTimespan = 16 * 60;
 
-int64_t devCoin = 0 * COIN;
+
 int nCoinbaseMaturity = 60;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
