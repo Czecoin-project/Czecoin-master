@@ -25,13 +25,13 @@ extern const std::string CLIENT_DATE;
 //
 // database format versioning
 //
-static const int DATABASE_VERSION = 70608;
+static const int DATABASE_VERSION = 70609;
 
 //
 // network protocol versioning
 //
 
-static const int PROTOCOL_VERSION = 70113;
+static const int PROTOCOL_VERSION = 70114;
 
 // earlier versions not supported as of Feb 2012, and are disconnected
 static const int MIN_PROTO_VERSION = 70020;
